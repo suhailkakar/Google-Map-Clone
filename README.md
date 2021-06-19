@@ -7,3 +7,6 @@
 
 ### Built With
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+### Deployed In
+* [Netlify](https://netlify.com/)
