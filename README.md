@@ -10,3 +10,12 @@
 
 ### Deployed In
 * [Netlify](https://netlify.com/)
+
+```bash
+📦  Google-Map-Clone-main
+├── app.js
+├── index.html
+├── LICENSE
+├── README.md
+└── style.css
+```
