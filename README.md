@@ -19,3 +19,14 @@
 ├── README.md
 └── style.css
 ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/suhailkakar/Google-Map-Clone
+   ```
+2. Run the app
+   ```sh
+   open index.html file
+   ```
